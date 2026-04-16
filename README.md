@@ -2,7 +2,7 @@
 A mod that adds 35 starting points by default during character creation.
 
 <p align="center">
-  <img src="Img/icon.png" width="200"/>
+  <img src="Img/icon.png" width="400"/>
 </p>
 
 ## Requirements
